@@ -1,1 +1,1 @@
-test
+Pod::Spec.new
